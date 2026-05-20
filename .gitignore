@@ -1,0 +1,23 @@
+# Compiled binaries
+poisson_solver_cpp*
+poisson_solver_fortran
+poisson_solver_rust
+poisson_solver_swift
+poisson_solver_swift_opt
+*.o
+*.exe
+*.out
+
+# macOS
+.DS_Store
+*.swp
+*.swo
+
+# IDE
+.vscode/
+.idea/
+*.sublime-*
+
+# Temporary files
+*.tmp
+*.log
